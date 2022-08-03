@@ -10,6 +10,13 @@
 
 <br/><br/>
 
+<h2>🩻 Service Architecture</h2>
+<br/><br/>
+<a href='https://ifh.cc/v-8HHVWl' target='_blank'><img src='https://ifh.cc/g/8HHVWl.png' border='0'></a>
+<br/><br/><br/>
+<a href='https://ifh.cc/v-OBHYzW' target='_blank'><img src='https://ifh.cc/g/OBHYzW.png' border='0'></a>
+<br/><br/><br/>
+
 <h2>서비스 핵심기능</h2>
 
 
@@ -38,13 +45,7 @@
 <strong>Designer</strong>	정기혁	
 <br/><br/>
 
-<h2>🩻 Service Architecture</h2>
-<br/><br/><br/><br/>
-<a href='https://ifh.cc/v-8HHVWl' target='_blank'><img src='https://ifh.cc/g/8HHVWl.png' border='0'></a>
-<br/><br/><br/><br/>
-<a href='https://ifh.cc/v-fcFoq6' target='_blank'><img src='https://ifh.cc/g/fcFoq6.jpg' border='0'></a>
 
-<br/><br/><br/><br/>
 
 <h2>🛠 Tech & Platfrom</h2>
 
