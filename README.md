@@ -8,7 +8,7 @@
 농장 운영에 필요한 데이터를 모아 제공하고 <br/>
 누적된 <strong>농장데이터 통계 분석</strong>으로 생산성을 높여주는 서비스입니다.</span>
 
- <a  href="https://nongdam.site" > 농담 둘러보기</a><br/>
+ <a  href="https://nongdam.site" >👉 농담 둘러보기</a><br/>
 
 <br/><br/>
 
